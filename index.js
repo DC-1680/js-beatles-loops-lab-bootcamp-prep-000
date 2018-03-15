@@ -34,6 +34,7 @@ function johnLennonFacts(facts){
     "He was never a vegetarian",
     "He was a choir boy and boy scout",
     "He hated the sound of his own voice"
+  ]
 
   var counter = 0;
   var newFacts = [];
