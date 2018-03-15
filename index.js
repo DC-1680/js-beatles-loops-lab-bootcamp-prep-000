@@ -35,7 +35,7 @@ function johnLennonFacts(facts){
     "He was a choir boy and boy scout",
     "He hated the sound of his own voice"
 
-  counter = facts.length-1;
+  var counter = facts.length-1;
   var newFacts = [];
 
   while(counter >= 0){
